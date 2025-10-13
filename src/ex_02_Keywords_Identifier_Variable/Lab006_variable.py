@@ -16,3 +16,6 @@ cn = 2+3j
 print(cn.real)
 print(cn.imag)
 print(cn)
+
+Print = "this is not fun"
+print(Print)

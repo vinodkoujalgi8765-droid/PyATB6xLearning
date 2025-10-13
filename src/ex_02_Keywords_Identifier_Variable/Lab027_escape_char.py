@@ -1,0 +1,7 @@
+print("Hello World")
+print("Hello\nWorld")
+print("Hello\tWorld")
+print("Hello\bWorld")
+print("Hello World",'\n')
+print("what is new")
+print("nothing")
