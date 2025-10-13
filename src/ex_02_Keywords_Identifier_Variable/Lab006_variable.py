@@ -1,0 +1,18 @@
+_ = 1
+print(_)
+
+
+_abc = 2
+print(_abc)
+
+
+_123 = 3
+print(_123)
+
+#123abc = "Vinod"  --> Not valid variable
+
+#complex number
+cn = 2+3j
+print(cn.real)
+print(cn.imag)
+print(cn)
