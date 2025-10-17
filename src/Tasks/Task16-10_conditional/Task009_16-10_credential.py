@@ -10,4 +10,4 @@ elif username == "admin" and password != passwd:
 elif usr_name != username and passwd == password:
     print("username is wrong")
 else:
-    print("Invalid username or password")
+    print("Invalid username and password")
