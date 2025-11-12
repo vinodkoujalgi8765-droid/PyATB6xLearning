@@ -11,7 +11,7 @@ def count_vowels(input_string):
             count_vowels = count_vowels + 1
             display_vowels.append(char)
         elif char not in vowels:
-            if (char != " " or char != "!" or char != "," or char != ".") in input_string:
+            if char != " " or char != "!" or char != "," or char != ".":
                 count_consonants = count_consonants + 1
                 display_consonants.append(char)
 
