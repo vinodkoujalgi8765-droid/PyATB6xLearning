@@ -4,4 +4,6 @@ def square(x):
     return x*x
 
 sq_result = map(square, numbers)
-print(list(sq_result)) 
+print(list(sq_result))
+print(sq_result)
+print(tuple(sq_result))

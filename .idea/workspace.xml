@@ -4,25 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a0ad0f3-e171-4da4-850f-ad23add4bdb3" name="Changes" comment="Task_OOPs_13-Nov-2025">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/01_class_object/Lab118_Dog_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/01_class_object/Lab119_class_Attri_beh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/02_construction/Lab119_defaultcall.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/02_construction/Lab119_dog2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/02_construction/Lab120_mobile_phone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/02_construction/Lab121_input_from_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/02_construction/Lab122_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/02_construction/Lab123_cal_non_PC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/03_Instance_variable/Lab124_instance_variable.py" afterDir="false" />
+    <list default="true" id="0a0ad0f3-e171-4da4-850f-ad23add4bdb3" name="Changes" comment="Task_OOPs_Encapsulation-18-Nov-2025">
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab031_Atrh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab031_Atrh_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab031_unary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab032_comparission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab033_logic_oper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab034_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab035_opera2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab036_operator_comparission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab037_operator_logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab038_operator_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab039_operator_com.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab040_Operato_exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab041_ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab042_userinput-unary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab043_memebrshio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab044_identity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_04_Operator/Lab045_math.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_05_Conditional/Lab043_IF_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_05_Conditional/Lab043_user_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_12_Lambda_Function/Lab090_Lambda1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_12_Lambda_Function/Lab091_Lambda_add.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_12_Lambda_Function/Lab092_Lambda_mul.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_12_Lambda_Function/Lab093_Lambda_3var.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_12_Lambda_Function/Lab094_user_input_ifelse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_12_Lambda_Function/Lab095_user_input_math.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab127_simpleclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab128_VWO_login_check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab129_Login_with_envfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab130_encap1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab131_encap_bank.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab132_public_private_protected.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HI/Lab137_Hierachical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HybridInheritance/Lab138_HI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HybridInheritance/Lab139_Real_Automation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/Lab133_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/MI/Lab134_MI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/MI/Lab135_MI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/ML/Lab136_ML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/ML/Lab136_samemethod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/SI/Lab133_Inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_16Map_and_Filter/Lab106_Map1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_16Map_and_Filter/Lab106_Map1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_17Dict/Lab106_Dict1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_17Dict/Lab106_Dict1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_17Dict/Lab108_dict_mul.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_17Dict/Lab108_dict_2d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_17Dict/Lab109_dict_mult2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_17Dict/Lab109_dict_3d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab130_encap1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab130_encap1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +89,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.10 down to 1.executor": "Run",
+    "Python.BaseTest.executor": "Run",
     "Python.Check_TC_Status.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab002_Python_Comment.executor": "Run",
@@ -76,10 +100,25 @@
     "Python.Lab007_maths.executor": "Run",
     "Python.Lab012_multiplevariable.executor": "Run",
     "Python.Lab013_max_min.executor": "Run",
+    "Python.Lab014_Atrh_operator.executor": "Run",
     "Python.Lab016_IOL.executor": "Run",
     "Python.Lab023_string.executor": "Run",
     "Python.Lab027_escape_char.executor": "Run",
     "Python.Lab0280_raw_string.executor": "Run",
+    "Python.Lab031_unary_operator.executor": "Run",
+    "Python.Lab032_comparission.executor": "Run",
+    "Python.Lab033_logic_oper.executor": "Run",
+    "Python.Lab034_operator.executor": "Run",
+    "Python.Lab035_opera2.executor": "Run",
+    "Python.Lab036_operator_comparission.executor": "Run",
+    "Python.Lab037_operator_logic.executor": "Run",
+    "Python.Lab038_operator_exam.executor": "Run",
+    "Python.Lab040_Operato_exam.executor": "Run",
+    "Python.Lab041_ternary_operator.executor": "Run",
+    "Python.Lab042_userinput-unary.executor": "Run",
+    "Python.Lab043_memebrshio.executor": "Run",
+    "Python.Lab044_identity.executor": "Run",
+    "Python.Lab045_math.executor": "Run",
     "Python.Lab061_declare.executor": "Run",
     "Python.Lab062_multiplecall.executor": "Run",
     "Python.Lab063_function_parameter.executor": "Run",
@@ -97,6 +136,12 @@
     "Python.Lab076_multifunction.executor": "Run",
     "Python.Lab077_changing_var.executor": "Run",
     "Python.Lab078_inner_function.executor": "Run",
+    "Python.Lab090_Lambda1.executor": "Run",
+    "Python.Lab091_Lambda_add.executor": "Run",
+    "Python.Lab092_Lambda_mul.executor": "Run",
+    "Python.Lab093_Lambda_3var.executor": "Run",
+    "Python.Lab094_user_input_ifelse.executor": "Run",
+    "Python.Lab095_user_input_math.executor": "Run",
     "Python.Lab096_List.executor": "Run",
     "Python.Lab097_List.executor": "Run",
     "Python.Lab098_feature_List.executor": "Run",
@@ -140,6 +185,15 @@
     "Python.Lab130_encap1.executor": "Run",
     "Python.Lab131_encap_bank.executor": "Run",
     "Python.Lab132_public_private_protected.executor": "Run",
+    "Python.Lab133_Inheritance.executor": "Run",
+    "Python.Lab133_inheritance.executor": "Run",
+    "Python.Lab134_MI.executor": "Run",
+    "Python.Lab135_MI.executor": "Run",
+    "Python.Lab136_ML.executor": "Run",
+    "Python.Lab136_samemethod.executor": "Run",
+    "Python.Lab137_Hierachical.executor": "Run",
+    "Python.Lab138_HI.executor": "Run",
+    "Python.Lab139_Real_Automation.executor": "Run",
     "Python.LabQ01.executor": "Run",
     "Python.LabQ02.executor": "Run",
     "Python.LabQ03_Real_example.executor": "Run",
@@ -198,8 +252,8 @@
       <recent name="C:\Users\koujalgi\PycharmProjects\PyATB6xLearning\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab132_public_private_protected">
-    <configuration name="Lab128_VWO_login_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab139_Real_Automation">
+    <configuration name="Lab136_ML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,11 +262,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/ML" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab128_VWO_login_check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/ML/Lab136_ML.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab129_Login_with_envfile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab136_samemethod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,11 +284,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/ML" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab129_Login_with_envfile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/ML/Lab136_samemethod.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +297,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab130_encap1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab137_Hierachical" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,11 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab130_encap1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HI/Lab137_Hierachical.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab131_encap_bank" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab138_HI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,11 +328,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HybridInheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab131_encap_bank.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HybridInheritance/Lab138_HI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab132_public_private_protected" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab139_Real_Automation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB6xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,11 +350,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HybridInheritance" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab132_public_private_protected.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Ex_18OOPs/05_Inheritance/HybridInheritance/Lab139_Real_Automation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,11 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab132_public_private_protected" />
-        <item itemvalue="Python.Lab131_encap_bank" />
-        <item itemvalue="Python.Lab130_encap1" />
-        <item itemvalue="Python.Lab129_Login_with_envfile" />
-        <item itemvalue="Python.Lab128_VWO_login_check" />
+        <item itemvalue="Python.Lab139_Real_Automation" />
+        <item itemvalue="Python.Lab138_HI" />
+        <item itemvalue="Python.Lab136_samemethod" />
+        <item itemvalue="Python.Lab137_Hierachical" />
+        <item itemvalue="Python.Lab136_ML" />
       </list>
     </recent_temporary>
   </component>
@@ -612,15 +666,29 @@
       <option name="project" value="LOCAL" />
       <updated>1763127443682</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Ex_OOPs_Encapsulation-18-Nov-2025">
+      <option name="closed" value="true" />
+      <created>1763575013907</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1763575013909</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Task_OOPs_Encapsulation-18-Nov-2025">
+      <option name="closed" value="true" />
+      <created>1763576585872</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1763576585872</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test_welcome" />
-    <MESSAGE value="09-10-2025:11:00" />
     <MESSAGE value="09-10-2025:11:20_comment" />
     <MESSAGE value="Task001_basic_print" />
     <MESSAGE value="File name changed from Task1 to Lab003_print" />
@@ -644,7 +712,9 @@
     <MESSAGE value="EX_17_Dict_08-Nov-2025" />
     <MESSAGE value="EX_18_Dict_11-Nov-2025" />
     <MESSAGE value="Task_OOPs_13-Nov-2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_OOPs_13-Nov-2025" />
+    <MESSAGE value="Ex_OOPs_Encapsulation-18-Nov-2025" />
+    <MESSAGE value="Task_OOPs_Encapsulation-18-Nov-2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_OOPs_Encapsulation-18-Nov-2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -673,6 +743,16 @@
           <url>file://$PROJECT_DIR$/src/Ex_18OOPs/04_Encapsulation/Lab129_Login_with_envfile.py</url>
           <line>16</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Ex_16Map_and_Filter/Lab106_Map1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Ex_17Dict/Lab108_dict_2d.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -19,7 +19,7 @@ student_infor2 = {
 
 student_list = [student_infor1,student_infor2]
 print(student_list)
-print(student_list[0])
-print(student_list[0]["name"])
-print(student_list[0]["address"]["office_address"])
+# print(student_list[0])
+# print(student_list[0]["name"])
+# print(student_list[0]["address"]["office_address"])
 

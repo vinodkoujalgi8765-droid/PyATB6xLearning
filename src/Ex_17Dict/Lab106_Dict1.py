@@ -14,4 +14,9 @@ print(my_dict)
 for key,value in my_dict.items():
     print(key, value)
 
+print("#"*100)
+
+
+for k in my_dict:
+    print(k, "--->", my_dict[k])
 
