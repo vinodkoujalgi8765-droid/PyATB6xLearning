@@ -25,3 +25,7 @@ t = Singup("FireFox")
 t.signup()
 print(id(t))
 print(t)
+
+#if no inheritance then getting attibute error
+l = LoginTest()
+l.run_test()
