@@ -1,0 +1,1 @@
+print("Syntax Error"  #SyntaxError: '(' was never closed
